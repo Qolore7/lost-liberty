@@ -26,7 +26,8 @@
 
 ## Introduction
 
-Lost Liberty A modlist focused on making the Mojave Wasteland more deserving of its name. Lost Liberty aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content. New content has also been added to flesh out areas of the game I felt were lacking, but all new content is of an extremely high quality and integrates seamlessly into the game world.
+Lost Liberty lightweight and highly-curated wabbajack modlist aimed at creating a polished survival-like experience in Fallout 3. Lost Liberty creates a harsh yet rewarding wasteland, much akin to that of my other modlists.
+
 ## List Contents
 
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/lost-liberty) if you want to know exactly what you're getting.
