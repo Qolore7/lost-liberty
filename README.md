@@ -26,7 +26,7 @@
 
 ## Introduction
 
-Lost Liberty lightweight and highly-curated wabbajack modlist aimed at creating a polished survival-like experience in Fallout 3. Lost Liberty creates a harsh yet rewarding wasteland, much akin to that of my other modlists.
+Lost Liberty is a lightweight and highly-curated wabbajack modlist aimed at creating a polished survival-like experience in Fallout 3. Lost Liberty creates a harsh yet rewarding wasteland, much akin to that of my other modlists.
 
 ## List Contents
 
