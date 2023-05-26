@@ -46,8 +46,16 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 # Installation:
 
+## Clean Install
+Lost Liberty requires a completely clean installation of Fallout 3. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Fallout3` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
+
 ## Starting Fallout 3
-Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
+1. Run the game through either Steam or GOG
+2. There should be two pop-ups about detecting your hardware and applying settings
+  > If you don't get any pop-ups, you did not properly do a clean installation! Delete `Documents\My Games\Fallout3` and try again.
+3. Select **Options** then select whichever preset you think is best for your PC. I recommend **Ultra** for most PCs, but the **High** preset will provide noticeably better performance for only a minor visual downgrade.
+  > For even further performance gains, I highly recommend disabling shadows. Fallout 3 does not have real-time shadows like modern games, only shadows for actors. These are hardly noticeable in most cases but do have an impact on performance
+4. Exit out of the launcher
 
 ## Downloading and Installing
 
@@ -83,7 +91,7 @@ A command prompt should show up, run for a few seconds, then read as follows:
 `Patching completed successfully.
 Press any key to continue . . .`
 
-Exit out of the command prompt and make sure that the `4GB Patcher` mod is enabled in the left pane of MO2
+Exit out of the command prompt
 
 Make sure the dropdown box on the right is set to `Fallout 3` and press the Run button.
 
