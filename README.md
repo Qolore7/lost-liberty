@@ -83,7 +83,7 @@ The download and installation process can take a little while (an hour or more) 
 >
 >Press any key to continue . . .
 
-10.Exit out of the command prompt
+10. Exit out of the command prompt
 11. Make sure the dropdown box on the right is set to `Fallout 3` and press the Run button.
 12. You're all set! Everything is already configured by default so you can hope right into a new game!
 
