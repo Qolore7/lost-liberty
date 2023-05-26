@@ -50,12 +50,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 Lost Liberty requires a completely clean installation of Fallout 3. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Fallout3` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 ## Starting Fallout 3
-1. Run the game through either Steam or GOG
-2. There should be two pop-ups about detecting your hardware and applying settings
-  > If you don't get any pop-ups, you did not properly do a clean installation! Delete `Documents\My Games\Fallout3` and try again.
-3. Select **Options** then select whichever preset you think is best for your PC. I recommend **Ultra** for most PCs, but the **High** preset will provide noticeably better performance for only a minor visual downgrade.
-  > For even further performance gains, I highly recommend disabling shadows. Fallout 3 does not have real-time shadows like modern games, only shadows for actors. These are hardly noticeable in most cases but do have an impact on performance
-4. Exit out of the launcher
+Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
 
 ## Downloading and Installing
 
@@ -69,33 +64,28 @@ The download and installation process can take a little while (an hour or more) 
   * The Resource Download Location box should automatically fill in `Lost Liberty\Downloads`, but you can move this folder to a different drive if are low on space
 8. Click the Go/Begin button and wait for Wabbajack to finish
 
-## Problems with Wabbajack
-
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you won't lose any progress.
-
-**REMINDER:** This list does not work with non-English and non-Steam/GOG versions of the game. 
-
-If you have any other installation issues, I may need to update the list. Please drop by the [Discord](https://discord.gg/VXvZWsxzEG) to report any errors!
-
 # Startup
 
-Open the installation folder and double click on the program called `ModOrganizer.exe`.
+1. Open the installation folder and double click on the program called `ModOrganizer.exe`.
+2. Select the **Fallout 3 Launcher** option from the drop-down in the top left then select **Run**
+  > If you have the GOG version of the game, you may need to add the launcher to MO2 yourself. You can do so by clicking the **Executables Menu** icon (the two colored gears) in the top bar of MO2, selecting the **+** then **Add from file...**
+3. The launcher should run and there should be two pop-ups about detecting your hardware and applying settings
+4. Select **Options** then select whichever preset you think is best for your PC. I recommend **Ultra** for most PCs, but the **High** preset will provide noticeably better performance for only a minor visual downgrade.
+  > For even further performance gains, I highly recommend disabling shadows. Fallout 3 does not have real-time shadows like modern games, only shadows for actors. These are hardly noticeable in most cases but do have an    impact on performance
+5. Set the Resolution option to your preference (The launcher usually does not set it to your monitor's max resolution)
+6. Exit out of the launcher
+7. Back in MO2, right-click on the mod in the left pane called `Fallout Anniversary Patcher` and seelct **Open in Explorer**
+8. Inside the opened folder, move all of the files to the game's `Root` folder (i.e. where you installed Fallout 3)
+9. Once the file has been moved, double-click `Patcher.exe` to run the patcher 
+9. A command prompt should show up, run for a few seconds, then read as follows:
 
-Right-click on the mod in the left pane called `Fallout Anniversary Patcher` and seelct **Open in Explorer**
+>Patching completed successfully.
+>
+>Press any key to continue . . .
 
-Inside the opened folder, move all of the files to the game's `Root` folder (i.e. where you installed Fallout 3)
-
-Once the file has been moved, double-click `Patcher.exe` to run the patcher 
-
-A command prompt should show up, run for a few seconds, then read as follows:
-`Patching completed successfully.
-Press any key to continue . . .`
-
-Exit out of the command prompt
-
-Make sure the dropdown box on the right is set to `Fallout 3` and press the Run button.
-
-You're all set! Everything is already configured by default so you can hope right into a new game!
+10.Exit out of the command prompt
+11. Make sure the dropdown box on the right is set to `Fallout 3` and press the Run button.
+12. You're all set! Everything is already configured by default so you can hope right into a new game!
 
 # Credits
 
