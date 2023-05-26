@@ -18,9 +18,9 @@
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
+    - [Clean Install](#clean-installation)
     - [Starting the Game](#starting-fallout-3)
     - [Downloading and Installing](#downloading-and-installing)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Startup](#startup)
 - [Credits](#credits)
 
